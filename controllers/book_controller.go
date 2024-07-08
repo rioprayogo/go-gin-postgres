@@ -3,7 +3,7 @@ package controllers
 import (
 	"net/http"
 
-	"your-module/repositories"
+	"go-gin-postgres/repositories"
 
 	"github.com/gin-gonic/gin"
 )

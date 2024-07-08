@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"your-module/routes"
-	"your-module/utils"
+	"go-gin-postgres/routes"
+	"go-gin-postgres/utils"
 )
 
 func main() {

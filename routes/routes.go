@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"go-gin-postgres"
+	"go-gin-postgres/controllers"
 
 	"github.com/gin-gonic/gin"
 )

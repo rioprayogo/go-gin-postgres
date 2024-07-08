@@ -4,8 +4,8 @@ import (
 	"database/sql"
 	"log"
 
-	"your-module/models"
-	"your-module/utils"
+	"go-gin-postgres/models"
+	"go-gin-postgres/utils"
 )
 
 var db *sql.DB
